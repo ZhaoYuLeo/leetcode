@@ -1,3 +1,3 @@
-# leetcode
+# working on leetcode
 
-## simple submit and feedback in leetcode
+#### simple submission and feedback in leetcode for self-learning.
